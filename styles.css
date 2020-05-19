@@ -29,6 +29,6 @@ footer {
   color: red;
 }
 
-footer p {
-  color: green;
+.align-right {
+  text-align: right;
 }
