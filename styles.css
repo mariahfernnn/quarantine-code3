@@ -1,12 +1,14 @@
 body {
   background-color: indigo;
-  color: white;
+  color: black;
+  margin: 0;
 }
 
 h1 {
-  color: red;
-  font-size: 100px;
+  color: white;
+  font-size: 26px;
   font-family: Arial, Arial, Helvetica, sans-serif;
+  width: 45%;
 }
 
 p {
@@ -34,7 +36,14 @@ footer {
 }
 
 .wrapper {
-  background-color: red;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main {
+  background-color: white;
+  padding: 50px 0;
 }
 
 a {
@@ -44,6 +53,11 @@ a {
 
 a:hover {
   color: chartreuse;
+}
+
+nav {
+  width: 45%;
+  text-align: right;
 }
 
 nav a {
