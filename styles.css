@@ -32,3 +32,8 @@ footer {
 .align-right {
   text-align: right;
 }
+
+a {
+  color: yellow;
+  text-decoration: underline;
+}
