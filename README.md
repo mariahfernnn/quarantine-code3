@@ -2,4 +2,4 @@
 
 Learning the basics of **HTML/CSS** from Eric Boggs.
 
-### Class 2: Intro to CSS
+### Class 2: Semantic HTML
